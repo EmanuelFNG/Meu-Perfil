@@ -1,0 +1,66 @@
+      body {
+          background-color: rgba(231, 226, 226, 0.931);
+
+      }
+
+      h1 {
+          color: #020303;
+          font: 30pt arial;
+      }
+
+      /* Controle Titulo Principal */
+
+      h2 {
+          color: rgb(0, 0, 0);
+          font: 16pt arial;
+      }
+
+      /* Controle do titulo "Sobre mim" */
+
+      h3 {
+          color: #0a0a0a;
+          font: 16pt arial;
+      }
+
+      /* Controle do titulo "Profissional" */
+
+      h4 {
+          font: 16pt arial;
+          text-align: center;
+          color: rgb(0, 0, 0);
+
+      }
+
+      /* Controle do Titulo Atletico */
+
+      a {
+          font: 14pt arial;
+          color: blue;
+      }
+
+      h5 {
+          font: 14pt arial;
+      }
+
+      .Escudo-do-Atletico {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          /* Controle posicionamento escudo do Atletico */
+      }
+
+      .Foto-Perfil {
+          display: block;
+          margin-left: 20px;
+          margin-right: 50%;
+      }
+
+      /* Controle posicionamento da foto de Perfil */
+
+      .Centralizado {
+          display: block;
+          margin: 0 auto;
+          text-align: center;
+      }
+
+      /* Controle de posicionamento play do hino */
